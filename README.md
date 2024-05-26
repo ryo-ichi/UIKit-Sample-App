@@ -7,7 +7,8 @@ UIKitの基礎文法、portfolioの実装イメージを掴むために作った
 * TextFieldDemo---TextField
 * StoryboardList---List/TableView
 * demoXIB---List/XIB
-* Time
+* Time.playground---日付操作
+* 
 
 
 
