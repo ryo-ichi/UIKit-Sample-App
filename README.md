@@ -4,7 +4,10 @@
 UIKitの基礎文法、portfolioの実装イメージを掴むために作った機能のサンプルです。
 
 ### 内容
+* TextFieldDemo---TextField
 * StoryboardList---List/TableView
+* demoXIB---List/XIB
+* Time
 
 
 
