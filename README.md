@@ -8,12 +8,6 @@ UIKitの基礎文法、portfolioの実装イメージを掴むために作った
 * StoryboardList---List/TableView
 * demoXIB---List/XIB
 * Time.playground---日付操作
-* 
+* JSONDecodable.playground---decode/パース処理
 
 
-
-demoXIB → ListXIB
-StoryboardList → List/TableView
-Time.glayground → 日付操作
-TextFieldDemo → TextField
-JSON Decodable.playground → decode/パース
